@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 carrots
 chicken
 eggs
+=======
+Spirited Away
+幽灵公主
+>>>>>>> movies
